@@ -1,0 +1,13 @@
+# FlexiMart ETL Pipeline - Python Dependencies
+
+# Data manipulation and analysis
+pandas
+
+# MySQL database connectivity
+mysql-connector-python
+
+# Regular expressions (standard library, included for reference)
+# re (built-in)
+
+# Optional but recommended for development
+python-dotenv # For managing database credentials

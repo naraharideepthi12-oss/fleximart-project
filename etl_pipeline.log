@@ -1,0 +1,6 @@
+2025-12-31 17:43:12,283 - INFO - Extracted 26 customer records
+2025-12-31 17:43:12,293 - INFO - Extracted 20 product records
+2025-12-31 17:43:12,300 - INFO - Extracted 41 order records
+2025-12-31 17:43:12,418 - INFO - Cleaned data saved to CSV files
+2025-12-31 17:43:12,430 - INFO - Quality report generated
+2025-12-31 17:43:12,437 - INFO - ETL Pipeline completed successfully
