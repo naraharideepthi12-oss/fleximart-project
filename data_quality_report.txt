@@ -1,0 +1,32 @@
+FLEXIMART ETL DATA QUALITY REPORT
+======================================================================
+Generated: 2025-12-31 17:43:12
+
+CUSTOMERS
+----------------------------------------------------------------------
+  Records Processed:    26
+  Duplicates Removed:   1
+  Missing Values Fixed: 5
+  Records Loaded:       25
+
+PRODUCTS
+----------------------------------------------------------------------
+  Records Processed:    20
+  Duplicates Removed:   0
+  Missing Values Fixed: 4
+  Records Loaded:       17
+
+ORDERS
+----------------------------------------------------------------------
+  Records Processed:    41
+  Duplicates Removed:   1
+  Missing Values Fixed: 3
+  Records Loaded:       37
+
+======================================================================
+SUMMARY
+======================================================================
+Total Records Processed: 87
+Total Records Cleaned:   14
+Total Records Loaded:    79
+Data Quality Score:      90.8%
