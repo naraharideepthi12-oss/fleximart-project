@@ -1,0 +1,24 @@
+2025-12-28 20:01:08,979 - INFO - MongoDB Standalone Operations initialized
+2025-12-28 20:01:08,982 - INFO - Loaded 12 products from JSON
+2025-12-28 20:01:08,989 - INFO - Basic query returned 3 products
+2025-12-28 20:01:09,011 - INFO - Review analysis returned 11 products
+2025-12-28 20:01:09,019 - INFO - Added review to ELEC001
+2025-12-28 20:01:09,030 - INFO - Category analysis returned 2 categories
+2025-12-28 20:01:09,034 - INFO - Results saved to C:\Users\Deepti Divya\Desktop\fleximart-project\part2-nosql\mongodb_results.txt
+2025-12-28 20:01:09,042 - INFO - All operations completed successfully
+2025-12-28 20:06:08,511 - INFO - MongoDB Standalone Operations initialized
+2025-12-28 20:06:08,514 - INFO - Loaded 12 products from JSON
+2025-12-28 20:06:08,521 - INFO - Basic query returned 3 products
+2025-12-28 20:06:08,528 - INFO - Review analysis returned 11 products
+2025-12-28 20:06:08,532 - INFO - Added review to ELEC001
+2025-12-28 20:06:08,548 - INFO - Category analysis returned 2 categories
+2025-12-28 20:06:08,551 - INFO - Results saved to C:\Users\Deepti Divya\Desktop\fleximart-project\part2-nosql\mongodb_results.txt
+2025-12-28 20:06:08,560 - INFO - All operations completed successfully
+2025-12-28 21:31:35,089 - INFO - MongoDB Standalone Operations initialized
+2025-12-28 21:31:35,110 - INFO - Loaded 12 products from JSON
+2025-12-28 21:31:35,115 - INFO - Basic query returned 3 products
+2025-12-28 21:31:35,125 - INFO - Review analysis returned 11 products
+2025-12-28 21:31:35,129 - INFO - Added review to ELEC001
+2025-12-28 21:31:35,141 - INFO - Category analysis returned 2 categories
+2025-12-28 21:31:35,143 - INFO - Results saved to C:\Users\Deepti Divya\Desktop\fleximart-project\part2-nosql\mongodb_results.txt
+2025-12-28 21:31:35,146 - INFO - All operations completed successfully
