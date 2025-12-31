@@ -1,0 +1,13 @@
+customer_key,customer_id,customer_name,city,state,customer_segment
+1,C001,"Rahul Sharma",Bangalore,Karnataka,Premium
+2,C006,"Anjali Mehta",Bangalore,Karnataka,Regular
+3,C016,"Divya Menon",Bangalore,Karnataka,Regular
+4,C002,"Priya Patel",Mumbai,Maharashtra,Premium
+5,C013,"Suresh Patel",Mumbai,Maharashtra,Regular
+6,C014,"Neha Shah",Mumbai,Maharashtra,Premium
+7,C003,"Amit Kumar",Delhi,Delhi,Regular
+8,C010,"Deepa Gupta",Delhi,Delhi,Occasional
+9,C017,"Rajesh Kumar",Delhi,Delhi,Premium
+10,C004,"Sneha Reddy",Hyderabad,Telangana,Regular
+11,C011,"Arjun Rao",Hyderabad,Telangana,Premium
+12,C018,"Kavya Reddy",Hyderabad,Telangana,Occasional

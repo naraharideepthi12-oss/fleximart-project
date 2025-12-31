@@ -1,0 +1,16 @@
+product_key,product_id,product_name,category,subcategory,unit_price
+1,P001,"Samsung Galaxy S21",Electronics,Smartphones,45999.00
+2,P003,"Apple MacBook Pro",Electronics,Laptops,189999.00
+3,P005,"Sony Headphones",Electronics,Audio,29990.00
+4,P007,"HP Laptop",Electronics,Laptops,52999.00
+5,P012,"Dell Monitor 24inch",Electronics,Monitors,12999.00
+6,P014,"iPhone 13",Electronics,Smartphones,69999.00
+7,P002,"Nike Running Shoes",Fashion,Footwear,12995.00
+8,P004,"Levi's Jeans",Fashion,Clothing,3499.00
+9,P008,"Adidas T-Shirt",Fashion,Clothing,1499.00
+10,P011,"Puma Sneakers",Fashion,Footwear,4599.00
+11,P013,"Woodland Shoes",Fashion,Footwear,5499.00
+12,P020,"Reebok Trackpants",Fashion,Clothing,1899.00
+13,P006,"Organic Almonds",Groceries,"Dry Goods",899.00
+14,P009,"Basmati Rice 5kg",Groceries,Grains,650.00
+15,P015,"Organic Honey 500g",Groceries,Condiments,450.00
